@@ -1,4 +1,4 @@
-[![MasterHead](https://scitechdaily.com/images/Artificial-Intelligence-Trust-Fear-Concept.gif)]
+[![MasterHead](https://dagshub.com/Vasanthengineer4949/J.A.R.V.I.S/raw/188ef84e5857e100609adeb04c588b219ef1cf2e/jarvis/jarvis3.gif)]
 <h1 align="center">Hi 👋, I'm Sarthak Haldar</h1>
 <h3 align="center">Aspiring Data Scientist</h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.pixabay.com/photo/2020/08/08/02/56/hacker-5471975_960_720.png">
